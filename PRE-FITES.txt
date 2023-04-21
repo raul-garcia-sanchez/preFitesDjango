@@ -1,0 +1,26 @@
+//FITA 1
+
+1 - GIT CLONE 
+2- python3 -m venv env
+3- source env/bin/activate
+4- borro dependecnias menos django
+5- pip install -r requirements.txt
+6 - 
+2 - MAKE MIGRATIONS
+3 - MIGRATE
+4- python3 manage.py createsuperuser
+5 - vas a /admin te logeas y ves users y groups
+
+//FITA 2
+
+1 - AÑADIR LOS MODELOS AL ADMIN
+2- HACER EL SELF PARA QUE SE VEA BUEN FORMATO
+
+//FITA 3
+1- AÑADIR NUEVA EN EL MODELO VOT
+EN LA SHELL IMPORTAR MODELOS
+MIRAR DISCORD MIS COSAS
+
+//FITA4
+1 - COPIAS CARPETA DE LALLIGA MANAGEMENTS/COMMANDS A TU APLICACION EN ESTE CASO (VOTA) -> donde este el admin.py
+2 - para ejecutarlo -> python manage.py nombrearchivo(sin.py)
